@@ -2,9 +2,6 @@
 
 Aplicación de consola desarrollada en **Java 21** con **Spring Boot** y **Maven** que permite buscar, guardar y gestionar libros y autores desde la API pública [Gutendex](https://gutendex.com/), almacenando los datos en una base de datos **PostgreSQL**.
 
-## 👤 Autor
-
-### Eric Herrera Romero
 
 ---
 
